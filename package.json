@@ -1,0 +1,21 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "task manage application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "SM",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3"
+  }
+}
