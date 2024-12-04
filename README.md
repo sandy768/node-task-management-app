@@ -13,10 +13,10 @@ Lastly, we can delete a specific task by fetching its Id which will also reflect
 ---App Setup Instructions---
 
 
-# You have to write "npm init" on the terminal first to intall the package.json file which includes the project description along with multiple dependencies.
+You have to write "npm init" on the terminal first to intall the package.json file which includes the project description along with multiple dependencies.
 
-# Then you have to write "npm install or npm i" on the terminal which mainly install all the packages which I have been used to develop this application and also create the node_modules folder contains details about the installed packages.
+Then you have to write "npm install or npm i" on the terminal which mainly install all the packages which I have been used to develop this application and also create the node_modules folder contains details about the installed packages.
 
-# You have to write "npm start" on the terminal to run the application.
+You have to write "npm start" on the terminal to run the application.
 
-# finally, you have to test the API for this application through "POSTMAN" which is already installed in this editor as an extension.
+finally, you have to test the API for this application through "POSTMAN" which is already installed in this editor as an extension.
